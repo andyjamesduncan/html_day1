@@ -1,26 +1,25 @@
 *{
 	/* outline: 1px solid red; */
 }
-.picture img{
-	width: 400px;
-	height: auto;
-}
-
-.panel-body {
-	background:grey;
-}
 
 body {
-  background-color: #2ba6cb !important;
-  padding: 0 90px;
+  background-image: url("nick.jpg");
+  background-size: cover;
 }
 
-table {
-  background-color: white !important;
-  padding: 0 90px;
-}
-
-.navbar {
-  background-color: white !important;
-  padding: 0 90px;
+.box {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 250%;
+  font-weight: bold;
+  width: 400px;
+  height: 300px;
+  background: #ccc;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  padding-right: 30px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: red;
+  margin: 50px;
 }
