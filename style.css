@@ -5,3 +5,22 @@
 	width: 400px;
 	height: auto;
 }
+
+.panel-body {
+	background:grey;
+}
+
+body {
+  background-color: #2ba6cb !important;
+  padding: 0 90px;
+}
+
+table {
+  background-color: white !important;
+  padding: 0 90px;
+}
+
+.navbar {
+  background-color: white !important;
+  padding: 0 90px;
+}
